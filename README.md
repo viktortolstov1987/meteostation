@@ -12,6 +12,7 @@ Arduino-based device for air temprature, pressure and humidity tracking with Pyt
 Для программирования в среде Arduino IDE необходимы библиотеки:
 -	DHT11 https://github.com/adafruit/DHT-sensor-library 
 -	Adafruit Sensor https://github.com/adafruit/Adafruit_Sensor 
+-	Adafruit BME_280_lib https://github.com/adafruit/Adafruit_BME280_Library
 -	библиотека дисплея U8g2 + инструкция по подключению
 https://www.instructables.com/id/Tutorial-to-Interface-OLED-091inch-128x32-With-Ard/ 
 
